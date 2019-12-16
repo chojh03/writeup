@@ -1,0 +1,4 @@
+break *0x400A23
+break *0x400AB1
+break *0x400A0E
+
