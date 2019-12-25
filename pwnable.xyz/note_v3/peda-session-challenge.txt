@@ -1,0 +1,4 @@
+break *0x4009A5
+break *0x4009B3
+tbreak main
+
